@@ -1,0 +1,8 @@
+# Copy of root requirements.txt — Cloud only auto-reads requirements.txt at repo root.
+# If your main file is stock_buy_sell/app.py, still put requirements.txt at the repo root.
+streamlit>=1.28
+pandas>=2.0
+numpy>=1.24
+yfinance>=0.2.40
+plotly>=5.18
+matplotlib>=3.7
